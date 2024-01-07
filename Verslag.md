@@ -21,7 +21,7 @@ functioneel ontwerp:
 - flowchart software
 
 Hoofdfunctie:
-
+(algemene beschrijving)
 
 Deelfunctie: 
 - zelfvoorziening
@@ -39,3 +39,14 @@ Deelfunctie:
 wens luchtdruk mqtt
 
 
+technische dossier
+- plan van aanpak verwijzen
+- kosten calculatie verwijzen
+- stroomschema
+- tekeningen
+- test rapport
+- materialen, waarom, gebruikswijze
+- normen
+- logboek / planning versies
+- bronnen
+- aanbevelingen
